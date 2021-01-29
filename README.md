@@ -1,4 +1,4 @@
 # Oi, eu sou o Kevin 👋🏾 👨🏾‍💻
 
-<img src="https://raw.githubusercontent.com/kevincerqueira/kevincerqueira/main/name-lastname.png" alt="Kevin Cerqueiraa">
+<img src="https://github.com/KevinCerqueira/KevinCerqueira/blob/main/name-lastname.png" alt="Kevin Cerqueira description">
 Sou um desenvolvedor de aplicações Web e Mobile, atualmente tenho desenvolvido grandes projetos com Laravel e IONIC. Também tenho estudado sobre desenvolvimento mobile com o framework Flutter, e implementando esse conhecimento em projetos pessoais. Também utilizei e utilizo React e PHP quando se trata de front-end e back-end; no front-end faço bastante o uso do Bootstrap, CSS, FontAwesome e SweetAlert; na parte de banco de dados trabalho com mais frequência com o Oracle, mas sempre que posso utilizo o MySQL, juntamente com sistemas como PHPMyAdmin e MySQL Workbench. Também já desenvolvi scripts em Python para Web Scraping e tenho forte conhecimento e experiência em desenvolvimento Java tanto para desktop quanto para Web.
