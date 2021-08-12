@@ -28,9 +28,7 @@ Sou um desenvolvedor full stack de aplicações Web e Mobile, atualmente tenho d
 	<a href="https://kevincerqueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" target="_blank"></a> 
 	<a href="https://kevincerqueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat" target="_blank"></a> 
 	<a href="https://kevincerqueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat" target="_blank"></a> 
-	<a href="https://kevincerqueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat" target="_blank"></a> 
-	<a href="https://kevincerqueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/MySQL-587185?style=for-the-badge&logo=MySQL&logoColor=white&style=flat" target="_blank"></a> 
-	<a href="https://kevincerqueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/Oracle-E32124?style=for-the-badge&logo=oracle&logoColor=white&style=flat" target="_blank"></a> 
+	<a href="https://kevincerqueira.github.io/" target="_blank"><img src="https://img.shields.io/badge/SQL-587185?style=for-the-badge&logo=MySQL&logoColor=white&style=flat" target="_blank"></a> 
 </div>
    
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
