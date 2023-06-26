@@ -20,7 +20,7 @@ Sou um desenvolvedor full stack pleno de softwares, e atualmente tenho desenvolv
   <img alt="readme-stats" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincerqueira&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-## 👨‍💻 Ferramentas e Tecnologias:
+## 👨🏾‍💻 Ferramentas e Tecnologias:
 <div>
 	<a href="https://kevincerqueira.github.io/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style=flat"></a> 
 	<a href="https://kevincerqueira.github.io/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat"></a> 
