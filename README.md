@@ -1,6 +1,6 @@
 # Oi, eu sou o Kevin 👋🏾 👨🏾‍💻
 
-Oi, eu sou o Kevin! Sou um desenvolvedor full stack pleno de softwares, e atualmente tenho desenvolvido projetos com o Laravel como stack principal. No front-end faço bastante o uso do Bootstrap e FlexBox sempre que possível, além de já ter trabalhado com React. No back-end, além do  Node.js e do PHP, já atuei com Java para Web. Também já desenvolvi projetos em pequenas escalas utilizando Python, como scripts aplicados a Web Scraping, IoT e compiladores. Sobre banco de dados tenho trabalhado com MariaDB, porém já lidei com Oracle, MySQL e MongoDB. E na parte de infraestrutura, atuo diariamente com Docker e com alguns recursos da AWS.
+Sou um desenvolvedor full stack pleno de softwares, e atualmente tenho desenvolvido projetos com o Laravel como stack principal. No front-end faço bastante o uso do Bootstrap e FlexBox sempre que possível, além de já ter trabalhado com React. No back-end, além do  Node.js e do PHP, já atuei com Java para Web. Também já desenvolvi projetos em pequenas escalas utilizando Python, como scripts aplicados a Web Scraping, IoT e compiladores. Sobre banco de dados tenho trabalhado com MariaDB, porém já lidei com Oracle, MySQL e MongoDB. E na parte de infraestrutura, atuo diariamente com Docker e com alguns recursos da AWS.
 <br>
 ## 📫 Contato e Redes Sociais:
 
