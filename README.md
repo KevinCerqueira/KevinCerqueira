@@ -13,13 +13,6 @@ Sou um desenvolvedor full stack pleno de softwares, e atualmente tenho desenvolv
 	<a href="https://bitbucket.org/kevincerqueira/"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-FFF?style=for-the-badge&logo=bitbucket&logoColor=0052CC&style=flat"></a> 
 </div>
 
-## 📊 Estatísticas GitHub:
-<div>
-  <a href="https://github.com/KevinCerqueira">
-  <img alt="readme-stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=kevincerqueira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img alt="readme-stats" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincerqueira&layout=compact&langs_count=7&theme=react"/>
-</div>
-
 ## 👨🏾‍💻 Ferramentas e Tecnologias:
 <div>
 	<a href="https://kevincerqueira.github.io/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style=flat"></a> 
