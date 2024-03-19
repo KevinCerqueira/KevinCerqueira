@@ -1,6 +1,6 @@
 # Oi, eu sou o Kevin 👋🏾 👨🏾‍💻
 
-Sou um desenvolvedor full stack pleno de softwares, e atualmente tenho desenvolvido projetos com o Laravel como stack principal. No front-end faço bastante o uso do Bootstrap e FlexBox sempre que possível, além de já ter trabalhado com React. No back-end, além do  Node.js e do PHP, já atuei com Java para Web. Também já desenvolvi projetos em pequenas escalas utilizando Python, como scripts aplicados a Web Scraping, IoT e compiladores. Sobre banco de dados tenho trabalhado com MariaDB, porém já lidei com Oracle, MySQL e MongoDB. E na parte de infraestrutura, atuo diariamente com Docker e com alguns recursos da AWS.
+Atuo como desenvolvedor full stack pleno, e no momento, meu foco é o desenvolvimento de funcionalidades financeiras na Loft, utilizando principalmente Kotlin, e mantendo sistemas em Laravel, PHP e JavaScript. Tenho experiência em criar interfaces responsivas com Bootstrap e FlexBox, além de ter trabalhado com React no front-end. No back-end, lido com a complexidade dos sistemas utilizando Node.js, Java para Web, e mantenho a performance com scripts Python em casos de Web Scraping e IoT. Em banco de dados, meu trabalho atual envolve PostgreSQL, e tenho sólida experiência com Oracle, MySQL/MariaDB e MongoDB. Na infraestrutura, aprofundo meu conhecimento diariamente com Docker, AWS e CI/CD com GitHub Actions, complementando a entrega de software com monitoramento e observabilidade via Datadog e ArgoCD.
 <br>
 ## 📫 Contato e Redes Sociais:
 
@@ -15,6 +15,7 @@ Sou um desenvolvedor full stack pleno de softwares, e atualmente tenho desenvolv
 
 ## 👨🏾‍💻 Ferramentas e Tecnologias:
 <div>
+	<a href="https://kevincerqueira.github.io/"><img alt="Laravel" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&style=flat"></a> 
 	<a href="https://kevincerqueira.github.io/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&style=flat"></a> 
 	<a href="https://kevincerqueira.github.io/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat"></a> 
 	<a href="https://kevincerqueira.github.io/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=flat"></a> 
