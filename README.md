@@ -9,7 +9,7 @@ Regarding databases, my current work involves PostgreSQL, but I also have solid 
 ## 📫 Get in Touch & Socials
 
 <div align="left"> 
-	<a href="https://kevincerqueira.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a> 
+	<a href="https://kevincerqueira.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a> 
 	<a href="mailto:kevincerqueira.dev@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 	<a href="https://www.linkedin.com/in/KevinCerqueira" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 	<a href="https://dev.to/kevincerqueira" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 	<a href="https://gitlab.com/KevinCerqueira" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=FC6D26"></a> 
